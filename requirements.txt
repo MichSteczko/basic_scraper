@@ -1,0 +1,8 @@
+requests
+bs4
+numpy
+pandas
+xlsxwriter
+selenium
+pywin32
+click
